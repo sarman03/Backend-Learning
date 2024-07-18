@@ -13,4 +13,4 @@ app.get('/twitter', (req, res) => {
 
 app.listen(process.env.PORT, ()=>{
     console.log(`Server is running on port ${port}`);
-})
+});
