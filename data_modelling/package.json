@@ -1,0 +1,16 @@
+{
+  "name": "data_modelling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
